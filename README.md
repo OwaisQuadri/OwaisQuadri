@@ -59,11 +59,6 @@
 
 ### Statistics:
 
-<img alt="Owais Quadri's Github Stats" src="https://
-github-readme-stats.vercel.app/api?username=owaisquadri&show_icons=true&
-hide_border=true&hide=,prs,issues&count_private=true&theme=dark
-" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owaisquadri)
+<img align="left" alt="Owais Quadri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=owaisquadri&show_icons=true&hide_border=true&hide=prs,issues&count_private=true&theme=dark" />![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owaisquadri&theme=dark&hide_border=true)
 
 [linkedin]: https://linkedin.com/in/OwaisQuadri
