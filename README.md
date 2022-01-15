@@ -57,13 +57,13 @@
 <img alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /></p>
 
----
+### Statistics:
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://
+<img alt="Owais Quadri's Github Stats" src="https://
 github-readme-stats.vercel.app/api?username=owaisquadri&show_icons=true&
 hide_border=true&hide=,prs,issues&count_private=true&theme=dark
 " />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owaisquadri)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owaisquadri)
 
 [linkedin]: https://linkedin.com/in/OwaisQuadri
