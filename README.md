@@ -17,6 +17,10 @@
 - 💼 I’m looking for a full time software development position starting in May 2022
 - 🎉 Fun fact: I love to play volleyball, basketball, and <a href="https://www.chess.com/member/owaisquadri">chess</a>.
 
+### Statistics:
+
+<img align="left" alt="Owais Quadri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=owaisquadri&show_icons=true&hide_border=true&hide=prs,issues&count_private=true&theme=dark" />![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owaisquadri&theme=dark&hide_border=true)
+
 ### Connect with me:
 
 [<img align="left" alt="Owais Quadri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -56,9 +60,5 @@
 <img alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /></p>
-
-### Statistics:
-
-<img align="left" alt="Owais Quadri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=owaisquadri&show_icons=true&hide_border=true&hide=prs,issues&count_private=true&theme=dark" />![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owaisquadri&theme=dark&hide_border=true)
 
 [linkedin]: https://linkedin.com/in/OwaisQuadri
