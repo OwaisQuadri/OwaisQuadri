@@ -1,14 +1,16 @@
 ### Hi there, I'm Owais 👋
 
 ### Properties
+
 ```json
 {
-  "Name" : "Owais Quadri",
-  "Age" : 20,
-  "Degree" : "Bachelor of Engineering, Software Engineering (Hons), Internet of Things Specialization",
-  "Graduation" : "May 2022"
+  "Name": "Owais Quadri",
+  "Age": 20,
+  "Degree": "Bachelor of Engineering, Software Engineering (Hons), Internet of Things Specialization",
+  "Graduation": "May 2022"
 }
 ```
+
 ### I'm a 4th Year Software Engineering Student at Ontario Tech University!
 
 - 📈 I’m currently learning Ruby on Rails and Vue.js
@@ -54,5 +56,14 @@
 <img alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 <img alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /></p>
+
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://
+github-readme-stats.vercel.app/api?username=owaisquadri&show_icons=true&
+hide_border=true&hide=,prs,issues&count_private=true&theme=dark
+" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owaisquadri)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://linkedin.com/in/OwaisQuadri
