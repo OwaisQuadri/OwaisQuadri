@@ -13,7 +13,7 @@
 
 ### I'm a 4th Year Software Engineering Student at Ontario Tech University!
 
-- 📈 I’m currently learning Ruby on Rails and Vue.js
+- 📈 I’m currently working with Python, Django REST API Development and Flutter.
 - 💼 I’m looking for a full time software development position starting in May 2022
 - 🎉 Fun fact: I love to play volleyball, basketball, and <a href="https://www.chess.com/member/owaisquadri">chess</a>.
 
