@@ -4,7 +4,9 @@
 - 👑 My favourite languages are Python, Java, Swift and JavaScript
 - 🎉 Fun fact: I love to play volleyball, basketball, and <a href="https://www.chess.com/member/owaisquadri">chess</a>.
   
-#### About
+Connect with me on <a href = "https://linkedin.com/in/OwaisQuadri" >LinkedIn</a>!
+  
+#### Properties
 
 ```json
 {
@@ -33,7 +35,3 @@
     }
 }
 ```
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owaisquadri&theme=dark&hide_border=true)
-
-Connect with me on <a href = "https://linkedin.com/in/OwaisQuadri" >LinkedIn</a>!
