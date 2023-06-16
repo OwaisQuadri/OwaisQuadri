@@ -1,10 +1,10 @@
-### Welcome! I'm Owais 👋
+### Welcome! I'm [Owais](https://docs.google.com/document/d/1InIyJejavJtBLAJZPjXpvqm_2rVnmXitCValutALRac/edit?usp=sharing) 👋
 
 - 💼 I’m currently working as an iOS Engineer, using Swift on XCode.
 - 👑 My favourite languages are Swift, Python, Java, and JavaScript
 - 🎉 Fun fact: I love to play volleyball, basketball, and chess.
   
-Connect with me on <a href = "https://linkedin.com/in/OwaisQuadri" >LinkedIn</a>!
+Connect with me on [LinkedIn](https://linkedin.com/in/OwaisQuadri)!
   
 #### Properties
 
@@ -17,6 +17,7 @@ Connect with me on <a href = "https://linkedin.com/in/OwaisQuadri" >LinkedIn</a>
         "jobTitle" : "Associate Application Developer",
         "company" : "ADP ( Automatic Data Processing / Always Designing for People )",
         "team" : "Mobile Team ( WorkMarket )",
+        "startDate" : "Sep 4 2022"
         "techUsed" : [
             "Java", "SpringBoot", "Eclipse",
             "SQL", "Oracle DB", "Toad", "Firebase",
