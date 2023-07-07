@@ -37,4 +37,4 @@ Connect with me on [LinkedIn](https://linkedin.com/in/OwaisQuadri)!
     }
 }
 ```
-<img src="https://komarev.com/ghpvc/?username=owaisquadri&label=Profile%20views&color=0e75b6&style=flat" alt="owaisquadri" />
+<img src="https://komarev.com/ghpvc/?username=owaisquadri&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="owaisquadri" />
