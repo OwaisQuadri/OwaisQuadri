@@ -37,4 +37,6 @@ Connect with me on [LinkedIn](https://linkedin.com/in/OwaisQuadri)!
     }
 }
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisQuadri&hide=php,mql4,TeX,html,css&show_icons=true&theme=tokyonight&hide_border=true&langs_count=4&layout=donut&size_weight=0.4&count_weight=0.6)](https://github.com/anuraghazra/OwaisQuadri)
+[![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=OwaisQuadri&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,contribs)](https://github.com/OwaisQuadri/OwaisQuadri)  
 <img src="https://komarev.com/ghpvc/?username=owaisquadri&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="owaisquadri" />
