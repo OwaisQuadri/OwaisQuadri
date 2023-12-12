@@ -4,9 +4,21 @@
 - 👑 My favourite languages are Swift, Python, Java, and JavaScript
 - 🎉 Fun fact: I love to play volleyball, basketball, and chess.
   
-Connect with me on [LinkedIn](https://linkedin.com/in/OwaisQuadri)!
+Connect with me on [Twitter](https://twitter.com/owaissquadri) & [LinkedIn](https://linkedin.com/in/OwaisQuadri)!
   
 ## Apps:  
+### rePortfolio:
+
+<a href="https://apps.apple.com/us/app/reportfolio-assets-tracker/id6472664177" target="_blank"><img width="150" alt="Hifdh Tracker" src="https://github.com/OwaisQuadri/OwaisQuadri/assets/55822994/fca8dd19-50c2-42a0-8ef7-cee694c88ead" /></a>  
+its the all-in-one report for your investment portfolio.  
+Net worth, assets, liabilities tracker iOS app.  
+Use the tools that were used to overcome $30,000 of  debt in 6 months.  
+A sleek user interface based on a google sheets model.  
+  
+<a href="https://apps.apple.com/us/app/reportfolio-assets-tracker/id6472664177" target="_blank"><img width="150" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>  
+<img src="https://github.com/OwaisQuadri/OwaisQuadri/assets/55822994/0319d6b0-b828-49cb-8dd8-46e37693c669" width=25% alt="App store Screenshot 1" /><img src="https://github.com/OwaisQuadri/OwaisQuadri/assets/55822994/d0507cfc-1203-41c6-a1c9-2237b5024c24" width=75% alt="finance google sheet" />
+
+  
 ### Hifdh Tracker:
 
 <a href="https://apps.apple.com/us/app/hifdh-tracker/id6451350122" target="_blank"><img width="150" alt="Hifdh Tracker" src="https://github.com/OwaisQuadri/Hifdh-Tracker/blob/main/Hifdh%20Tracker/Assets.xcassets/AppIcon.appiconset/AppIcon~ios-marketing.png" /></a>  
