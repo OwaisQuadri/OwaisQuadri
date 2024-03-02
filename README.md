@@ -5,20 +5,7 @@
 - 🎉 Fun fact: I love to play volleyball, basketball, and chess.
   
 Connect with me on [Twitter](https://twitter.com/owaissquadri) & [LinkedIn](https://linkedin.com/in/OwaisQuadri)!
-  
-## Apps:  
-### rePortfolio:
 
-<a href="https://apps.apple.com/us/app/reportfolio-assets-tracker/id6472664177" target="_blank"><img width="150" alt="Hifdh Tracker" src="https://github.com/OwaisQuadri/OwaisQuadri/assets/55822994/fca8dd19-50c2-42a0-8ef7-cee694c88ead" /></a>  
-its the all-in-one report for your investment portfolio.  
-Net worth, assets, liabilities tracker iOS app.  
-Use the tools that were used to overcome $30,000 of  debt in 6 months.  
-A sleek user interface based on a google sheets model.  
-  
-<a href="https://apps.apple.com/us/app/reportfolio-assets-tracker/id6472664177" target="_blank"><img width="150" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>  
-<img src="https://github.com/OwaisQuadri/OwaisQuadri/assets/55822994/0319d6b0-b828-49cb-8dd8-46e37693c669" width=25% alt="App store Screenshot 1" /><img src="https://github.com/OwaisQuadri/OwaisQuadri/assets/55822994/d0507cfc-1203-41c6-a1c9-2237b5024c24" width=75% alt="finance google sheet" />
-
-  
 ### Hifdh Tracker:
 
 <a href="https://apps.apple.com/us/app/hifdh-tracker/id6451350122" target="_blank"><img width="150" alt="Hifdh Tracker" src="https://github.com/OwaisQuadri/Hifdh-Tracker/blob/main/Hifdh%20Tracker/Assets.xcassets/AppIcon.appiconset/AppIcon~ios-marketing.png" /></a>  
@@ -28,6 +15,8 @@ iOS native application developed using UIKit, SwiftUI, CoreData, and xCode Cloud
 <a href="https://apps.apple.com/us/app/hifdh-tracker/id6451350122" target="_blank"><img width="150" alt="Download on the App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>  
   
 <img src="https://github.com/OwaisQuadri/OwaisQuadri/assets/55822994/ecad8345-b6bb-4c73-b747-6fdebe0911ad" width=20% alt="App store Screenshot 1" /><img src="https://github.com/OwaisQuadri/OwaisQuadri/assets/55822994/e242f0ae-fa15-4f23-b1de-18498209e70a" width=20% alt="App store Screenshot 2" /><img src="https://github.com/OwaisQuadri/OwaisQuadri/assets/55822994/e555da44-3f61-4d21-91cb-4b627bd74f4a" width=20% alt="App store Screenshot 3" /><img src="https://github.com/OwaisQuadri/OwaisQuadri/assets/55822994/3d08382e-e4c0-47a4-9f57-2d2832217e99" width=20% alt="App store Screenshot 4" /><img src="https://github.com/OwaisQuadri/OwaisQuadri/assets/55822994/3b99993b-dbb9-4b48-addd-413877397ce0" width=20% alt="App store Screenshot 5" />  
+
+  
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisQuadri&hide=php,mql4,TeX,html,css&show_icons=true&theme=tokyonight&hide_border=true&langs_count=4&layout=donut&size_weight=0.4&count_weight=0.6)](https://github.com/anuraghazra/OwaisQuadri)
 [![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=OwaisQuadri&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,contribs)](https://github.com/OwaisQuadri/OwaisQuadri)  
