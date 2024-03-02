@@ -1,7 +1,7 @@
 ## Welcome! I'm [Owais](https://docs.google.com/document/d/1InIyJejavJtBLAJZPjXpvqm_2rVnmXitCValutALRac/edit?usp=sharing) 👋
 
 - 💼 I’m currently working as an iOS Engineer at ADP, using UIKit and Swift on Xcode.
-- 👑 My favourite languages are Swift, Python, Java, and JavaScript
+- 👑 My favourite languages are Swift, Python, Java, Dart, and JavaScript
 - 🎉 Fun fact: I love to play volleyball, basketball, and chess.
   
 Connect with me on [Twitter](https://twitter.com/owaissquadri) & [LinkedIn](https://linkedin.com/in/OwaisQuadri)!
