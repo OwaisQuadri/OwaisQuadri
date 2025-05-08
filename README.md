@@ -6,6 +6,11 @@
   
 Connect with me on [Twitter](https://twitter.com/owaissquadri) & [LinkedIn](https://linkedin.com/in/OwaisQuadri)!
 
+
+### Reuse AI:
+
+<a href="https://apps.apple.com/app/apple-store/id6745150532?pt=123810342&ct=github&mt=8" target="_blank"><img width="100%" alt="Reuse AI" src="https://github.com/user-attachments/assets/90abf631-a150-42f5-bcb5-708bf0842c47" /></a>
+
 ### Hifdh Tracker:
 
 <a href="https://apps.apple.com/us/app/hifdh-tracker/id6451350122" target="_blank"><img width="150" alt="Hifdh Tracker" src="https://github.com/OwaisQuadri/Hifdh-Tracker/blob/main/Hifdh%20Tracker/Assets.xcassets/AppIcon.appiconset/AppIcon~ios-marketing.png" /></a>  
