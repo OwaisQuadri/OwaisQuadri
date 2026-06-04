@@ -1,6 +1,6 @@
 ## Owais Quadri
 
-Senior Software Engineer @ [Pillars](https://thepillarsapp.com). Leading mobile for an iOS / Flutter app at 100K+ DAU and 2M+ lifetime downloads. ex-ADP. Building B2B SaaS on the side.
+Senior Software Engineer @ [Pillars](https://thepillarsapp.com). Building Software for an iOS / Flutter app at 100K+ DAU and 2M+ lifetime downloads. ex-ADP. Building B2B SaaS on the side.
 
 **Stack:** Swift, SwiftUI, Swift Concurrency, StoreKit 2, WidgetKit, App Intents, Flutter, Python, zsh/bash
 
